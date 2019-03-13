@@ -71,15 +71,23 @@
 		6444870D22375A140040AF3E /* RSPageControl */ = {
 			isa = PBXGroup;
 			children = (
+				64D12EF72239134A00D0F07A /* RSCycleScrollView */,
 				6444870E22375A140040AF3E /* AppDelegate.swift */,
 				6444871022375A140040AF3E /* ViewController.swift */,
 				6444871222375A140040AF3E /* Main.storyboard */,
 				6444871522375A150040AF3E /* Assets.xcassets */,
 				6444871722375A150040AF3E /* LaunchScreen.storyboard */,
 				6444871A22375A150040AF3E /* Info.plist */,
-				6444872222375F930040AF3E /* RSCycleScrollView.swift */,
 			);
 			path = RSPageControl;
+			sourceTree = "<group>";
+		};
+		64D12EF72239134A00D0F07A /* RSCycleScrollView */ = {
+			isa = PBXGroup;
+			children = (
+				6444872222375F930040AF3E /* RSCycleScrollView.swift */,
+			);
+			path = RSCycleScrollView;
 			sourceTree = "<group>";
 		};
 		D91E5B3A65514A966617AB46 /* Pods */ = {
